@@ -1,2 +1,3 @@
 # hello-world
-Learn how to wright
+writing skill
+I want to learn writing
